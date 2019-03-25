@@ -11,6 +11,9 @@ body{
   border-radius: 5px;
   padding: 50px;
 }
+  .page .message {
+    text-align: center;
+  }
 
 .page-header{
   margin-bottom: 20px;
